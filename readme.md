@@ -1,8 +1,8 @@
-# My Fourth Project
+# Interior Design Landing Page
 
 > i have learnt basics of HTML and CSS in this project.
 
-> it took me around 1 and half hours to complete this project.
+> it took me around 1 hour to complete this project.
 
 ### Tools Used:
 
@@ -18,4 +18,4 @@
 
 - > Sample output
 
-![Image](./Cap1.PNG)
+<img width="960" alt="cap1" src="https://user-images.githubusercontent.com/67215417/202186121-4bd40f15-9adb-4e22-b3f8-f3198384e549.png">
